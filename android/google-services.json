@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458423458075",
+    "project_id": "nirmit-180ee",
+    "storage_bucket": "nirmit-180ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458423458075:android:bac84056170b54c57cdbbe",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458423458075-jmp9jpgrtulr0k9qkpedu9cu93ri6mlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "36023dbb1567f422202bf1dcd514cae8c1504343"
+          }
+        },
+        {
+          "client_id": "458423458075-pk3ed3d82t7fiv6jf9rsters7orf3suh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLB-MOGs7_qnEz-laLVtmMFGxjDQH3oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458423458075-pk3ed3d82t7fiv6jf9rsters7orf3suh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
